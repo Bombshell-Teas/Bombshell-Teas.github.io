@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- One -->
-<section id="one" class="wrapper style2 special">
+<!-- <section id="one" class="wrapper style2 special">
 	<header class="major">
 		<h2>Sed ipsum magna lorem tempus amet<br />
 		vehicula et gravida elementum</h2>
@@ -14,7 +14,7 @@ title: Home
 		<li><span class="icon fa-refresh"><span class="label">Process</span></span></li>
 		<li><span class="icon fa-cloud"><span class="label">Upload</span></span></li>
 	</ul>
-</section>
+</section> -->
 
 <!-- Two -->
 <!-- <section id="two" class="wrapper">
