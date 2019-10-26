@@ -17,7 +17,7 @@ title: Home
 </section>
 
 <!-- Two -->
-<section id="two" class="wrapper">
+<!-- <section id="two" class="wrapper">
 	<div class="inner alt">
 		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic01.jpg" alt="" /></div>
@@ -50,4 +50,4 @@ title: Home
 			</ul>
 		</section>
 	</div>
-</section>
+</section> -->
