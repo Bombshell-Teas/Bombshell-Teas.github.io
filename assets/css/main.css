@@ -3627,7 +3627,7 @@
 /* Header */
 
 	#header {
-		background-color: #fff;
+		background-color: #b4e2f0;
 		color: #f8b6e0;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
@@ -3816,15 +3816,15 @@
 		#header a {
 			color: inherit;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
-			color: #ffffff;
+			color: #f8b6e0;
 		}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #f8b6e0;
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: #f8b6e0;
 		}
 
 		#header blockquote {
